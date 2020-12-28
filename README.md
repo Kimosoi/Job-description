@@ -35,10 +35,7 @@ Reporting to the Manager – Core Planning, the position holder will be responsi
              -Establishes and maintains Core network performance objectives.
 
  
-
- 
- 
-Qualifications
+# Qualifications
  
 
              -Bachelor’s Degree or Equivalent Electrical Engineering, Computer Science, Information Systems
